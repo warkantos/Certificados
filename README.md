@@ -1,1 +1,1 @@
-A repository to organize my certifications
+The certificates for my courses will be hosted in this repository.
